@@ -22,3 +22,5 @@ The manual testing will cover the core functionalities of the OpenCart E-Commerc
 - Category Management
 - Product Management
 - Website Security
+## Test Scenario
+  ![1](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting/assets/62147630/b9f9214c-db6c-4be6-8ba4-d00fa0c9ec83)
