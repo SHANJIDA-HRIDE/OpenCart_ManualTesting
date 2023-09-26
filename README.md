@@ -1,14 +1,14 @@
 # Manual Testing for Opencart E-Commerce Website
 ## Table of Content
-- [Introduction](https://github.com/SHANJIDA-HRIDE/Performance_Testing_OpenCart#introduction)
-- [Purpose of Manual Testing](https://github.com/SHANJIDA-HRIDE/Performance_Testing_OpenCart#Purpose-of-Manual-Testing)
-- [Goals of Manual Testing](https://github.com/SHANJIDA-HRIDE/Performance_Testing_OpenCart#Goals-of-Manual-Testing)
-- [Target Audience](https://github.com/SHANJIDA-HRIDE/Performance_Testing_OpenCart#Target-Audience)
-- [Scope](https://github.com/SHANJIDA-HRIDE/Performance_Testing_OpenCart#Scope)
-- [Test Scenario](https://github.com/SHANJIDA-HRIDE/Performance_Testing_OpenCart#Test-Scenario)
-- [Test Cases](https://github.com/SHANJIDA-HRIDE/Performance_Testing_OpenCart#Test-Cases)
-- [Requirement Test Matrix](https://github.com/SHANJIDA-HRIDE/Performance_Testing_OpenCart#Requirement-Test-Matrix)
-- [Bug Report](https://github.com/SHANJIDA-HRIDE/Performance_Testing_OpenCart#Bug-Report)
+- [Introduction](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting#introduction)
+- [Purpose of Manual Testing](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting#Purpose-of-Manual-Testing)
+- [Goals of Manual Testing](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting#Goals-of-Manual-Testing)
+- [Target Audience](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting#Target-Audience)
+- [Scope](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting#Scope)
+- [Test Scenario](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting#Test-Scenario)
+- [Test Cases](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting#Test-Cases)
+- [Requirement Test Matrix](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting#Requirement-Test-Matrix)
+- [Bug Report](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting#Bug-Report)
 ## Introduction
 Welcome to the manual testing documentation for the OpenCart E-Commerce website. This document provides guidance and instructions for conducting manual testing on the OpenCart platform, which is a widely used open-source e-commerce solution.
 ## Purpose of Manual Testing
