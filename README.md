@@ -9,6 +9,7 @@
 - [Test Cases](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting#Test-Cases)
 - [Requirement Test Matrix](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting#Requirement-Test-Matrix)
 - [Bug Report](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting#Bug-Report)
+- [Conclusion](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting#Conclusion)
 ## Introduction
 Welcome to the manual testing documentation for the OpenCart E-Commerce website. This document provides guidance and instructions for conducting manual testing on the OpenCart platform, which is a widely used open-source e-commerce solution.
 ## Purpose of Manual Testing
