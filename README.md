@@ -77,7 +77,7 @@ Requirement-Test Matrix, also known as a Traceability Matrix, helps in linking r
 
 |  Bug Report 3
 :-------------------------:
-(![11](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting/assets/62147630/539b58db-a84c-4e0c-843a-584884e3b282)
+![11](https://github.com/SHANJIDA-HRIDE/OpenCart_ManualTesting/assets/62147630/539b58db-a84c-4e0c-843a-584884e3b282)
 
 ## Conclusion
 Manual testing is an essential part of ensuring the functionality, usability, and overall quality of the OpenCart E-Commerce website. Through the systematic execution of test scenarios and diligent adherence to test cases, we have achieved the following conclusions:
